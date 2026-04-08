@@ -37,6 +37,12 @@
 
 <br>
 
+## 🏗 Architecture Overview
+
+![Digital Library Management System — Architecture](architecture.png)
+
+<br>
+
 ## 🛠 Tech & Java Concepts Covered
 
 OOP Principles, data types, variables, scope, arrays, operators, control statements, classes, objects, constructors, access specifiers, garbage collection |
