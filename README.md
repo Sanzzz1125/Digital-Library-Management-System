@@ -103,7 +103,6 @@ DigitalLibrary/
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                    UNIT V & VI — Swing GUI                          │
 │                    LibraryGUI  (JFrame)                             │
 │                                                                     │
 │  ┌──────────┬───────────┬──────────────┬───────────┬─────────────┐  │
@@ -116,7 +115,6 @@ DigitalLibrary/
 └──────────────────────────────┬──────────────────────────────────────┘
                                │  calls
 ┌──────────────────────────────▼──────────────────────────────────────┐
-│                 UNIT I · II · III — Core Logic                      │
 │                       LibraryCatalog                                │
 │                                                                     │
 │  ┌─────────────┬──────────────────┬─────────────┬────────────────┐  │
@@ -126,13 +124,12 @@ DigitalLibrary/
 │  │             │ StudentMember    │ Printable   │ GenreReport    │  │
 │  └─────────────┴──────────────────┴─────────────┴────────────────┘  │
 │                                                                     │
-│  Unit I  : Classes · Constructors · Arrays · Operators             │
-│  Unit II : Inheritance · Polymorphism · Overloading · Recursion    │
-│  Unit III: try / catch / throw / throws / finally                  │
+│  Classes · Constructors · Arrays · Operators             │
+│  Inheritance · Polymorphism · Overloading · Recursion    │
+│  try / catch / throw / throws / finally                  │
 └───────┬──────────────────────────┬───────────────────────┬──────────┘
         │                          │                       │
 ┌───────▼────────┐    ┌────────────▼──────────┐    ┌──────▼──────────┐
-│ UNIT III       │    │ UNIT IV               │    │ UNIT III        │
 │ Exceptions     │    │ Multi-Threading       │    │ File I/O Streams│
 │                │    │                       │    │                 │
 │ LibraryExc     │    │ BackupThread          │    │ FileInputStream │
