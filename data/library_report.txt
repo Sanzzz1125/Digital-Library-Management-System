@@ -1,0 +1,19 @@
+=== LIBRARY REPORT ===
+Total Books: 12
+Total Members: 5
+Available Books: 12
+Borrowed Books: 0
+
+--- Book List ---
+[1001] "Clean Code" by Robert C. Martin (2008) | Genre: Technology | Available: 3/3 | Rating: 2.4
+[1002] "The Pragmatic Programmer" by David Thomas (2019) | Genre: Technology | Available: 2/2 | Rating: 2.3
+[1003] "Design Patterns" by Gang of Four (1994) | Genre: Technology | Available: 2/2 | Rating: 0.0
+[1004] "Head First Java" by Kathy Sierra (2005) | Genre: Technology | Available: 4/4 | Rating: 2.4
+[1005] "Effective Java" by Joshua Bloch (2018) | Genre: Technology | Available: 3/3 | Rating: 0.0
+[1006] "Introduction to Algorithms" by CLRS (2009) | Genre: Mathematics | Available: 2/2 | Rating: 0.0
+[1007] "The Great Gatsby" by F. Scott Fitzgerald (1925) | Genre: Fiction | Available: 5/5 | Rating: 2.1
+[1008] "To Kill a Mockingbird" by Harper Lee (1960) | Genre: Fiction | Available: 4/4 | Rating: 0.0
+[1009] "1984" by George Orwell (1949) | Genre: Dystopian | Available: 3/3 | Rating: 0.0
+[1010] "Sapiens" by Yuval Noah Harari (2011) | Genre: History | Available: 4/4 | Rating: 0.0
+[1011] "A Brief History of Time" by Stephen Hawking (1988) | Genre: Science | Available: 2/2 | Rating: 0.0
+[1012] "The Alchemist" by Paulo Coelho (1988) | Genre: Fiction | Available: 5/5 | Rating: 0.0
